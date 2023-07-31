@@ -3,3 +3,4 @@
 - Belajar Responsive
 - Belajar Bootstrap
 - Belajar JavaScript
+- Belajar Python
