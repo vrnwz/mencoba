@@ -1,0 +1,4 @@
+Alasan kenapa saya sedang belajar Github dan Git :
+1. Untuk persiapan belajar coding
+2. Agar bisa berkolaborasi dengan programmer lain
+3. Persiapan mengikuti bootcamp 2 minggu
